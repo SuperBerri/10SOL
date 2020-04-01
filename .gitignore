@@ -48,6 +48,7 @@ ExportedObj/
 *.pdb.meta
 *.mdb.meta
 *.meta
+*.log
 
 # Unity3D generated file on crash reports
 sysinfo.txt
@@ -59,3 +60,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+10SOL/10Sol/Library/shadercompiler-UnityShaderCompiler.exe0.log
+*.bin
+*.log
+*.log
